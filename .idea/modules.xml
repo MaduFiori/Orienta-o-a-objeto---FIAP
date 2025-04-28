@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/05-exercicio/05-exercicio.iml" filepath="$PROJECT_DIR$/05-exercicio/05-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-projeto-empregado-main/08-projeto-empregado-main.iml" filepath="$PROJECT_DIR$/08-projeto-empregado-main/08-projeto-empregado-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Orienta-o-a-objeto---FIAP.iml" filepath="$PROJECT_DIR$/Orienta-o-a-objeto---FIAP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula28_04/aula28_04.iml" filepath="$PROJECT_DIR$/aula28_04/aula28_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maria/maria.iml" filepath="$PROJECT_DIR$/maria/maria.iml" />
+    </modules>
+  </component>
+</project>
