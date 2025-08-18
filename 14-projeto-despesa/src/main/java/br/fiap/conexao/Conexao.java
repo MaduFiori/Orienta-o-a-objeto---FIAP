@@ -18,10 +18,10 @@ public class Conexao {
 
     public static Connection conectar() { //statico para não instanciar (chamar) - connection (olhar slide)
         try {
-            DriverManager.getConnection(URL, USER, PASSWORD);//tres tipos de getconnection (só senha, senha e user ou senha, user e mais um)
+            return DriverManager.getConnection(URL, USER, PASSWORD);//tres tipos de getconnection (só senha, senha e user ou senha, user e mais um)
         } catch (SQLException e) { //excessao para getconnection
             System.out.println("Erro ao conectar no banco\n" + e); //mensagem para saber se conectou
         }
-        return null;
+        return conectar();
     }
 }
